@@ -1,0 +1,5 @@
+Tautan GitHub Repository - Kriteria 3:
+https://github.com/bayubimantara/Workflow-CI
+
+Catatan: Ganti URL di atas dengan URL repository GitHub Anda yang sebenarnya.
+Pastikan visibilitas repository diatur ke PUBLIC.

@@ -1,0 +1,5 @@
+Tautan GitHub Repository - Kriteria 1:
+https://github.com/bayubimantara/Eksperimen_SML_Bayu-Bimantara
+
+Catatan: Ganti URL di atas dengan URL repository GitHub Anda yang sebenarnya.
+Pastikan visibilitas repository diatur ke PUBLIC.
